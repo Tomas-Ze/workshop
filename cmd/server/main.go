@@ -27,9 +27,7 @@ func main() {
 	})
 
 	r.Post("/slice", func(w http.ResponseWriter, r *http.Request) {
-		//for i := 1; i < 10; i++ {
-		//
-		//}
+		// range
 		//write response
 	})
 
